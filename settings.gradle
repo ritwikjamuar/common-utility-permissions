@@ -1,0 +1,2 @@
+rootProject.name = "common-utility-permissions"
+include ':app'
